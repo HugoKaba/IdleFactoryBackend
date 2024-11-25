@@ -1,0 +1,8 @@
+node_modules/
+.idea/
+
+# Dist/Build
+dist/
+
+# Env files
+.env
